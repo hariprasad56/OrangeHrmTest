@@ -1,0 +1,55 @@
+18:38:01.401 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+18:38:08.430 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+18:38:09.434 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+18:38:09.570 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+18:38:09.617 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+18:38:09.952 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is fail
+18:42:30.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bobbi\KCSA3\Testing project\OrangeHrm\testng.xml
+
+18:42:31.299 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 132)
+18:42:31.333 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+18:42:36.349 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+18:42:37.156 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+18:42:37.282 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+18:42:37.317 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+18:42:37.612 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is fail
+18:52:02.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bobbi\KCSA3\Testing project\OrangeHrm\testng.xml
+
+18:52:04.352 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 132)
+18:52:04.388 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+18:52:09.819 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+18:52:10.812 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+18:52:10.973 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+18:52:11.033 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+18:52:11.363 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is fail
+19:28:26.287 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bobbi\KCSA3\Testing project\OrangeHrm\testng.xml
+
+19:28:27.164 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 132)
+19:28:27.204 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+19:28:34.250 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+19:28:35.356 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+19:28:35.502 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+19:28:35.556 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+19:28:35.864 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is fail
+19:37:23.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bobbi\KCSA3\Testing project\OrangeHrm\testng.xml
+
+19:37:24.478 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 132)
+19:37:24.516 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+19:37:31.416 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+19:37:32.445 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+19:37:32.626 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+19:37:32.724 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+19:37:33.072 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is fail
+20:06:27.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bobbi\KCSA3\Testing project\OrangeHrm\testng.xml
+
+20:06:48.942 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 132)
+20:06:48.994 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+20:06:55.601 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+20:06:56.543 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+20:06:56.721 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+20:06:56.769 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button

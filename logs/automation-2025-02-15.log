@@ -1,0 +1,54 @@
+15:25:52.421 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:25:52.511 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:25:52.598 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:25:52.599 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+15:55:12.576 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.98 (resolved driver for Chrome 133)
+15:55:12.611 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win64\133.0.6943.98\chromedriver.exe
+15:55:16.589 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+15:55:18.976 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+15:55:19.093 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:55:19.161 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:55:19.333 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:55:19.334 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+15:55:19.445 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on logout button
+15:55:19.760 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login1 test is pass
+15:55:19.776 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+15:55:19.864 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:55:19.948 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:55:20.051 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:55:20.051 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+15:55:20.116 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on logout button
+15:55:20.301 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login1 test is pass
+15:55:20.303 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+15:55:20.397 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:55:20.506 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:55:20.645 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:55:20.645 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+15:55:20.717 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on logout button
+15:55:20.941 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login1 test is pass
+15:55:20.945 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+15:55:21.036 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:55:21.114 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:55:21.215 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:55:21.215 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+15:55:51.586 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+15:55:51.659 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+15:55:51.734 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+15:55:51.829 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+15:55:51.829 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+16:40:30.092 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 133.0.6943.98 (resolved driver for Chrome 133)
+16:40:30.129 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\bobbi\.cache\selenium\chromedriver\win64\133.0.6943.98\chromedriver.exe
+16:40:33.066 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the url
+16:40:55.089 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+16:40:55.223 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+16:40:55.327 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+16:40:55.494 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+16:40:55.494 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+16:40:55.574 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on logout button
+16:40:55.829 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login1 test is pass
+16:40:55.856 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the user name
+16:40:55.965 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Enter the password
+16:40:56.066 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on login button
+16:40:56.160 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - login test is pass
+16:40:56.160 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on menu bar
+16:40:56.231 [main] INFO  com.OrangeHrm.TestCases.OrangeLoginTest - Click on logout button
